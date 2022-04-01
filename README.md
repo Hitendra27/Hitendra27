@@ -1,9 +1,14 @@
 <img  align="right" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/hero.webp" height="300"/>
 
 # 👋  Hi, I'm Hitendra Quessou
-- 🌱 
-- 👀 I’m interested in an I.T support role and Full Stack Web Development.
-- 💞️ I have uploaded my projects here for employers to see.
+
+<p align="center">
+  
+</p>
+
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Hafiz Javaid Iqbal</h1>
+<h3 align="left">Software Engineer | Frontend Developer</h3>
+<p align="left">
 
 ## Skills:
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d3344444338343f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f6964266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130](https://user-images.githubusercontent.com/73651340/161322774-32435e25-0679-456c-a5fc-e1e730224eb1.svg)
