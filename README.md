@@ -1,4 +1,4 @@
-#- 👋 Hi, I'm Hitendra Quessou
+- 👋 # Hi, I'm Hitendra Quessou
 - 🌱 
 - 👀 I’m interested in an I.T support role and Full Stack Web Development.
 - 💞️ I have uploaded my projects here for employers to see.
