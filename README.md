@@ -13,7 +13,7 @@
 
 <p align="left">
   <em>
-  A passionate Software Engineer, Android and  Full Stack Developer 🚀 having an experience of building Web applications with Html / Css / JavaScript / Vuejs / Nuxtjs / Vuetify / React / Nextjs / Typescript and some other cool libraries and frameworks.
+  A passionate Software Engineer, Android and  Full Stack Developer 🚀 having an experience of building Android and Web applications with Html / Css / JavaScript / Vuejs / Nuxtjs / Vuetify / React / Nextjs / Typescript / Android / Java / Kotlin / Android Studio and some other cool libraries and frameworks.
 
   </em> 
   <br>
