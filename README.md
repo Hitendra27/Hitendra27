@@ -30,8 +30,13 @@
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6f746c696e2d3030393544353f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130](https://user-images.githubusercontent.com/73651340/161251433-5b751bee-defa-4409-89b3-d3bb03315490.svg)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69645f53747564696f2d3344444338343f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f69642d73747564696f266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d3130](https://user-images.githubusercontent.com/73651340/161251448-898728e6-356a-4d36-a2fd-85be4b5c0ec6.svg)
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ## Contact me at:
 
 Email: sanjay_quessou@yahoo.co.uk
