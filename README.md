@@ -6,7 +6,7 @@
   
 </p>
 
-<h3 align="left">Software Engineer | Frontend Developer</h3>
+<h3 align="left">Software Engineer | Android Developer | Full Stack Developer</h3>
 <p align="left">
   
 </p>
