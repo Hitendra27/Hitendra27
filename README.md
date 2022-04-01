@@ -5,7 +5,7 @@
 
 # Skills:
 
-#F7DF1E
+https://img.shields.io/badge/android-Kotlin-green
 
 - 📫 How to reach me at sanjay_quessou@yahoo.co.uk or phone me on 07916754097.
 
