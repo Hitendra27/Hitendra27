@@ -20,7 +20,7 @@
 
 </p>
 
-✔ I’m experienced with **Vuejs**, **React** and **Typescript**<br>
+✔ I’m experienced with **Android **, **Kotlin**, **JavaScript**, **Vue.js**, **React** and **Typescript**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : _Whenever I'm stuck with problem during coding, I'll be checking my fb and instagram_<br>
   
