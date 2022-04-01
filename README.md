@@ -5,7 +5,7 @@
 
 # Skills:
 
-[](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a
+#F7DF1E
 
 - 📫 How to reach me at sanjay_quessou@yahoo.co.uk or phone me on 07916754097.
 
