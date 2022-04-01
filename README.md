@@ -8,6 +8,24 @@
 
 <h3 align="left">Software Engineer | Frontend Developer</h3>
 <p align="left">
+  
+</p>
+
+<p align="left">
+  <em>
+  A passionate Software Engineer and Frontend Developer 🚀 having an experience of building Web applications with Html / Css / JavaScript / Vuejs / Nuxtjs / Vuetify / React / Nextjs / Typescript and some other cool libraries and frameworks.
+
+  </em> 
+  <br>
+
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizjavaid&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="hafizjavaid" /> </p>
+
+✔ I’m experienced with **Vuejs**, **React** and **Typescript**<br>
+✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+✔ Fun fact : _Whenever I'm stuck with problem during coding, I'll be checking my fb and instagram_<br>
+  
 
 ## Skills:
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d3344444338343f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f6964266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130](https://user-images.githubusercontent.com/73651340/161322774-32435e25-0679-456c-a5fc-e1e730224eb1.svg)
