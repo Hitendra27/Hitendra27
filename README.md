@@ -13,7 +13,7 @@
 
 <p align="left">
   <em>
-  A passionate Software Engineer and Frontend Developer 🚀 having an experience of building Web applications with Html / Css / JavaScript / Vuejs / Nuxtjs / Vuetify / React / Nextjs / Typescript and some other cool libraries and frameworks.
+  A passionate Software Engineer, Android and  Full Stack Developer 🚀 having an experience of building Web applications with Html / Css / JavaScript / Vuejs / Nuxtjs / Vuetify / React / Nextjs / Typescript and some other cool libraries and frameworks.
 
   </em> 
   <br>
@@ -37,6 +37,7 @@
 ## Contact me at:
 
 Email: sanjay_quessou@yahoo.co.uk
+
 Mobile: 07916754097
 
 <!---
