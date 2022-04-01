@@ -1,6 +1,6 @@
 <img  align="right" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/hero.webp" height="300"/>
 
-# 👋  Hi, I'm Hitendra Quessou
+# 👋  Hi there, my name is Hitendra Quessou
 
 <p align="center">
   
