@@ -22,7 +22,7 @@
 
 ✔ I’m experienced with **Android**, **Kotlin**, **JavaScript**, **Vue.js**, **React** and **Typescript**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : _Whenever I'm stuck with problem during coding, I'll be listen to Music <br>
+✔ Fun fact : _Whenever I'm stuck with a problem during coding, I'll be listen to Music_ <br>
   
 
 ## Skills:
