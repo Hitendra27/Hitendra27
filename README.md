@@ -1,3 +1,5 @@
+<img  align="right" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/hero.webp" height="300"/>
+
 # 👋  Hi, I'm Hitendra Quessou
 - 🌱 
 - 👀 I’m interested in an I.T support role and Full Stack Web Development.
