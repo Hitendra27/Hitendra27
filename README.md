@@ -93,10 +93,17 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
   
 <h3 align="left">Recent Projects</h3>
- <p>
+<p>
 <em>
 <a href="https://hitendra27.github.io/Digital_Resume/" target="_blank">
 Digital Resume
+</a>
+</em>
+</p> 
+<p>
+<em>
+<a href="" target="_blank">
+React Weather App
 </a>
 </em>
 </p> 
