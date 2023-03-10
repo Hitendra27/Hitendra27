@@ -95,7 +95,7 @@
 <h3 align="left">Recent Projects</h3>
  <p>
 <em>
-<a href="" target="_blank">
+<a href="https://hitendra27.github.io/Digital_Resume/" target="_blank">
 Digital Resume
 </a>
 </em>
