@@ -95,7 +95,7 @@
 <h3 align="left">Recent Projects</h3>
 <p>
 <em>
-<a href="https://journeybinder.com/" target="_blank">
+<a href="https://hitendra27.github.io/bootstrap5/" target="_blank">
 Modern Website with Bootstrap 5
 </a>
 </em>
