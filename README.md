@@ -102,7 +102,7 @@ Digital Resume
 </p> 
 <p>
 <em>
-<a href="" target="_blank">
+<a href="https://hitendra27.github.io/weather-app-react" target="_blank">
 React Weather App
 </a>
 </em>
