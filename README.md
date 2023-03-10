@@ -102,7 +102,7 @@ Modern Website with Bootstrap 5
 </p>
 <p>
 <em>
-<a href="https://cloud-data.netlify.app/" target="_blank">
+<a href="https://hitendra27.github.io/Movie_API/" target="_blank">
 Movie API website
 </a>
 </em>
