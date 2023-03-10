@@ -91,6 +91,24 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+  
+<h3 align="left">Recent Projects</h3>
+<p>
+<em>
+<a href="https://journeybinder.com/" target="_blank">
+Modern Website with Bootstrap 5
+</a>
+</em>
+</p>
+<p>
+<em>
+<a href="https://cloud-data.netlify.app/" target="_blank">
+Movie API website
+</a>
+</em>
+</p>
+  
+ 
 
 
 
