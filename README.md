@@ -102,7 +102,7 @@ Digital Resume
 </p> 
   <p>
 <em>
-<a href="https://hitendra27.github.io/Indian-Restaurant-Website-in-HTML-CSS-and-JavaScript/index.html" target="_blank">
+<a href="https://hitendra27.github.io/Indian-Restaurant-Website-in-HTML-CSS-and-JavaScript/" target="_blank">
 Restaurant Website
 </a>
 </em>
