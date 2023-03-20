@@ -100,6 +100,13 @@ Digital Resume
 </a>
 </em>
 </p> 
+  <p>
+<em>
+<a href="https://hitendra27.github.io/Indian-Restaurant-Website-in-HTML-CSS-and-JavaScript/home.html" target="_blank">
+Restaurant Website
+</a>
+</em>
+</p>
 <p>
 <em>
 <a href="https://hitendra27.github.io/weather-app-react" target="_blank">
