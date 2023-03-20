@@ -130,6 +130,13 @@ Movie API website
 </p>
 <p>
 <em>
+<a href="https://hitendra27.github.io/javascript-Vanilla-_ShoppingCart/store.html" target="_blank">
+Shopping Cart JavaScript
+</a>
+</em>
+</p>
+<p>
+<em>
 <a href="https://hitendra27.github.io/fetchAPI/" target="_blank">
 Fetch API 
 </a>
