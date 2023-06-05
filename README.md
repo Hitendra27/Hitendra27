@@ -165,7 +165,9 @@ Local Storage Website
 </em>
 </p>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+##
+  
+  [![Hitendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hitendra27)](https://github.com/hitendra27/github-readme-stats)
   
   
  
