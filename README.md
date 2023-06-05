@@ -166,13 +166,7 @@ Local Storage Website
 </p>
   
 ##
-  
-  [![Hitendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hitendra27)](https://github.com/hitendra27/github-readme-stats&theme=radical)
-  
-  
- 
-
-
+  ![Hitendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitendra27&show_icons=true&theme=radical)
 
 ## Contact me at:
 
