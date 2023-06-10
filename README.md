@@ -11,7 +11,7 @@
   
 </p>
 
-[![Profile badge](https://www.codewars.com/users/hugmanrique/badges/large)](https://www.codewars.com/users/hugmanrique)
+[![Profile badge](https://www.codewars.com/users/hitendra27/badges/large)](https://www.codewars.com/users/hitendra27)
 
 
 
