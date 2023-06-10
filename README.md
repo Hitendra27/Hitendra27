@@ -167,6 +167,8 @@ Local Storage Website
   
 ##
   ![Hitendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitendra27&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitendra27&layout=compact)](https://github.com/hitendra27/github-readme-stats)
+  
+![Codewars](https://github.r2v.ch/codewars?user=andreasvogt89&stroke=%23BB432C)  
 
 ## Contact me at:
 
