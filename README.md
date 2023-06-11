@@ -1,6 +1,6 @@
 <img  align="right" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/hero.webp" height="300"/>
 
-# 👋  Hi, I am Hitendra Quessou
+# 👋  Hi, I am Hitendra Quessou ![codewars](https://www.codewars.com/users/Hitendra27/badges/micro)
 
 <p align="center">
   
