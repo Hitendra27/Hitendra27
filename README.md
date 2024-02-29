@@ -14,7 +14,13 @@
 
 <p align="left">
   <em>
-  A passionate Software Engineer, Android and  Full Stack Developer 🚀 having an experience of building Android and Web applications with Html / Css / JavaScript / Vuejs / Typescript / Vuetify / React / Nextjs / Nativescript / Android / Java / Kotlin / Android Studio and some other cool libraries and frameworks.
+  Passionate Software Engineer, Experienced in building cutting-edge Android and web applications using a diverse stack of technologies including HTML/CSS, JavaScript, Vue.js, TypeScript, Vuetify, React, Next.js, NativeScript, Android, Java, Kotlin, and Android Studio. 💻
+
+🔥 Excited about leveraging innovative libraries and frameworks to create robust and user-friendly solutions. Constantly exploring new technologies and pushing the boundaries of what's possible in software development. 🌐
+
+Let's connect and collaborate on exciting projects! 🤝
+
+#SoftwareEngineer #AndroidDeveloper #FullStackDeveloper #JavaScript #VueJS #React #Android #Java #Kotlin #TechEnthusiast #Innovation #CodePassion #GitHub #OpenSource 🌟
 
   </em> 
   <br>
