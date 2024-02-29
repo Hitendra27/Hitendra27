@@ -24,7 +24,6 @@ Let's connect and collaborate on exciting projects! 🤝
 
   </em> 
   <br>
-
 </p>
 
 ✔ I’m experienced with **Android**, **Kotlin**, **JavaScript**, **Vue.js**, **React** and **NativeScript**<br>
